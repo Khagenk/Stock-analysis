@@ -2,6 +2,8 @@
 Overview of project:  
 The Purpose of the analysis was to analyze list of stocks over for the year 2017 and 2018 to determine which stocks are worth investing. Building from the previous VBA codes in the module, the challenge concluded with the refactor version of the Microsoft excel VBA code. This allowed for the person looking at the data to get information regarding those stock faster and more efficiently. 
   Results:  According to the data stocks in the year 2017 had a high return compared to 2018. However only stock that had a positive return for year 2018  was ENPH and RUN. Attached are few picture of the code that was used in the Microsoft VBA to come up with results as well as the execution time. 
+
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/94031446/144774754-f58529ca-d7fd-4a3b-afab-ebc1acdf519d.png)
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/94031446/144774761-bbea075b-9a98-4210-89bf-6f6fd1ed9576.png)
